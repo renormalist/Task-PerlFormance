@@ -1,5 +1,7 @@
 Revision history for {{$dist->name}}
 
 {{$NEXT}}
+
+0.001     2012-08-28
         - initial version
         - maximum dependencies for Benchmark::Perl::Formance
