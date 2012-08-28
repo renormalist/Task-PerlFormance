@@ -11,6 +11,8 @@ package Task::PerlFormance;
 
 =pkg Benchmark::Perl::Formance
 
+=pkg Benchmark::Perl::Formance::Cargo
+
 =pkg Tapper::TestSuite::Benchmark::Perl::Formance
 
 
