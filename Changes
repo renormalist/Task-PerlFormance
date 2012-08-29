@@ -1,6 +1,9 @@
 Revision history for {{$dist->name}}
 
 {{$NEXT}}
+        - add Benchmark::Perl::Formance::Cargo,
+          Task::PerlFormance is now the primary dependency bag,
+          while Benchmark::Perl::Formance becomes very basic
 
 0.001     2012-08-28
         - initial version
