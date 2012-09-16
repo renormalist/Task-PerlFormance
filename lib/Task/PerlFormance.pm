@@ -7,8 +7,6 @@ package Task::PerlFormance;
 =pkgroup perlformance
 
 
-=pkg forks
-
 =pkg Benchmark::Perl::Formance
 
 =pkg Benchmark::Perl::Formance::Cargo
