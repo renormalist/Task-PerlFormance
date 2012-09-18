@@ -1,6 +1,8 @@
 Revision history for {{$dist->name}}
 
 {{$NEXT}}
+
+0.003     2012-09-18
         - drop "forks.pm" - I don't use it currently and it
           stops install without distroprefs
         - complementary work to dependency cleanup in
