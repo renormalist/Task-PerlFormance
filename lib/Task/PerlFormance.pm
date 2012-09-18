@@ -13,6 +13,10 @@ package Task::PerlFormance;
 
 =pkg Tapper::TestSuite::Benchmark::Perl::Formance
 
+=pkg Test::More
+
+=pkg File::ShareDir
+
 
 
 =pkgroup SpamAssassin
@@ -72,6 +76,13 @@ package Task::PerlFormance;
 =pkg HTTP::Headers
 
 =pkg URI
+
+
+
+=pkgroup Incubator
+
+
+=pkg Math::MatrixReal
 
 
 
