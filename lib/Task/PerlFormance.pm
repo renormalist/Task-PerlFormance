@@ -4,6 +4,17 @@ package Task::PerlFormance;
 # ABSTRACT: Max dependencies for Benchmark::Perl::Formance
 
 
+=pkgroup cpan
+
+
+=pkg Digest::SHA1
+
+=pkg Safe
+
+=pkg Module::Build
+
+
+
 =pkgroup perlformance
 
 

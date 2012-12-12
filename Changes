@@ -1,6 +1,8 @@
 Revision history for {{$dist->name}}
 
 {{$NEXT}}
+        - depend on AAAA::Mail::SpamAssassin
+          to force SA deps come earlier
 
 0.003     2012-09-18
         - drop "forks.pm" - I don't use it currently and it
