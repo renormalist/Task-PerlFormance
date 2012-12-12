@@ -22,15 +22,7 @@ package Task::PerlFormance;
 =pkgroup SpamAssassin
 
 
-=pkg DB_File
-
-=pkg Net::IP
-
-=pkg Net::DNS
-
-=pkg NetAddr::IP
-
-=pkg HTML::Parser
+=pkg AAAA::Mail::SpamAssassin
 
 =pkg Mail::SpamAssassin
 
