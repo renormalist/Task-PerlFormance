@@ -1,6 +1,8 @@
 Revision history for {{$dist->name}}
 
 {{$NEXT}}
+
+0.004     2012-12-12
         - depend on AAAA::Mail::SpamAssassin
           to force SA deps come earlier
 
