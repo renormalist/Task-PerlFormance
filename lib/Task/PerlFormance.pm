@@ -59,7 +59,7 @@ package Task::PerlFormance;
 
 =pkg re::engine::Lua
 
-=pkg re::engine::Plan9
+# =pkg re::engine::Plan9
 
 =pkg re::engine::Oniguruma
 
