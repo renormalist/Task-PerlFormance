@@ -1,6 +1,8 @@
 Revision history for {{$dist->name}}
 
 {{$NEXT}}
+
+0.006     2016-04-23
         - drop some too heavy deps from the default list
 
 0.005     2012-12-14
