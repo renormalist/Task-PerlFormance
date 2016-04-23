@@ -1,3 +1,4 @@
+use 5.008;
 use strict;
 use warnings;
 package Task::PerlFormance;
@@ -22,27 +23,14 @@ package Task::PerlFormance;
 
 =pkg Benchmark::Perl::Formance::Cargo
 
-=pkg Tapper::TestSuite::Benchmark::Perl::Formance
+=pkg BenchmarkAnything::Reporter
 
 =pkg Test::More
 
 =pkg File::ShareDir
 
 
-
-=pkgroup SpamAssassin
-
-
-=pkg AAAA::Mail::SpamAssassin
-
-=pkg Mail::SpamAssassin
-
-
-
 =pkgroup OO
-
-
-=pkg MooseX::Declare
 
 =pkg Moose
 
@@ -61,7 +49,7 @@ package Task::PerlFormance;
 
 # =pkg re::engine::Plan9
 
-=pkg re::engine::Oniguruma
+# =pkg re::engine::Oniguruma
 
 =pkg re::engine::RE2
 
@@ -122,14 +110,6 @@ package Task::PerlFormance;
 =pkg YAML::XS
 
 =pkg Encode
-
-
-
-=pkgroup PerlCritic
-
-
-=pkg Perl::Critic
-
 
 
 1;
