@@ -36,6 +36,21 @@ package Task::PerlFormance;
 
 =pkg Mouse
 
+=pkg Moo
+
+=pkg Class::Accessor
+
+=pkg Class::Accessor::Fast
+
+=pkg Class::MethodMaker
+
+=pkg Object::Tiny::RW
+
+=pkg Class::XSAccessor
+
+=pkg Class::XSAccessor::Array
+
+
 
 
 =pkgroup RxCmp
@@ -52,6 +67,9 @@ package Task::PerlFormance;
 # =pkg re::engine::Oniguruma
 
 =pkg re::engine::RE2
+
+=pkg re::engine::PCRE
+
 
 
 
@@ -110,6 +128,15 @@ package Task::PerlFormance;
 =pkg YAML::XS
 
 =pkg Encode
+
+
+
+=pkgroup SpamAssassin
+
+
+=pkg AAAA::Mail::SpamAssassin
+
+=pkg Mail::SpamAssassin
 
 
 1;
