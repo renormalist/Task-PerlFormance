@@ -1,6 +1,7 @@
 Revision history for {{$dist->name}}
 
 {{$NEXT}}
+        - plus ::Plugin:PerlStone2015
 
 0.007     2016-05-06
         - plus some useful deps, and SpamAssassin is back
