@@ -1,6 +1,7 @@
 Revision history for {{$dist->name}}
 
 {{$NEXT}}
+        - drop ::Plugin:Mandelbrot due to crashes
 
 0.008     2018-04-21
         - plus ::Plugin:PerlStone2015

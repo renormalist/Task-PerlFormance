@@ -25,7 +25,7 @@ package Task::PerlFormance;
 
 =pkg Benchmark::Perl::Formance::Plugin::PerlStone2015
 
-=pkg Benchmark::Perl::Formance::Plugin::Mandelbrot
+# =pkg Benchmark::Perl::Formance::Plugin::Mandelbrot
 
 =pkg BenchmarkAnything::Reporter
 
