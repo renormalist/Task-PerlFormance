@@ -33,6 +33,8 @@ package Task::PerlFormance;
 
 =pkg File::ShareDir
 
+=pkg File::Copy::Recursive
+
 
 =pkgroup OO
 
