@@ -109,7 +109,7 @@ package Task::PerlFormance;
 
 =pkgroup Primes
 
-=pkg Crypt::Primes
+# =pkg Crypt::Primes
 
 =pkg Math::Primality
 
